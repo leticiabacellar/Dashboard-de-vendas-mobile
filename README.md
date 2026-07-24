@@ -1,6 +1,7 @@
 # 📊 Dashboard de Análise de Vendas
 
-![Dashboard](images/dashboard.png)
+<img width="743" height="409" alt="image" src="https://github.com/user-attachments/assets/df649800-7c59-4fe7-ae0c-c8729ab9b197" />
+
 
 ## 📌 Sobre o Projeto
 
@@ -96,7 +97,8 @@ Com este dashboard é possível:
 
 ### Visão Geral
 
-![Dashboard](images/dashboard.png)
+<img width="743" height="409" alt="image" src="https://github.com/user-attachments/assets/0455f1b2-d6f3-49a9-9ba7-3fb552d898f3" />
+
 
 ---
 
